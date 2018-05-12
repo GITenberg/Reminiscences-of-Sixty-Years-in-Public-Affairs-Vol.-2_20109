@@ -1,0 +1,29 @@
+_repo: Reminiscences-of-Sixty-Years-in-Public-Affairs-Vol.-2_20109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boutwell, George S. (George Sewall)
+    alias: Boutwell, George Sewall
+    birthdate: 1818
+    deathdate: 1905
+    gutenberg_agent_id: '8436'
+    url: http://www.gutenberg.org/2009/agents/8436
+    wikipedia: http://en.wikipedia.org/wiki/George_S._Boutwell
+description: ''
+gutenberg_issued: '2006-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcc 'E660'
+- !lcsh 'Boutwell, George S. (George Sewall), 1818-1905'
+title: Reminiscences of Sixty Years in Public Affairs, Vol. 2
+url: http://www.gutenberg.org/ebooks/20109
